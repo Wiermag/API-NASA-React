@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/API-NASA-React/public/static/css/main.e44d26cd.chunk.css",
+    "main.js": "/API-NASA-React/public/static/js/main.cc246346.chunk.js",
+    "main.js.map": "/API-NASA-React/public/static/js/main.cc246346.chunk.js.map",
+    "runtime-main.js": "/API-NASA-React/public/static/js/runtime-main.dab41bf5.js",
+    "runtime-main.js.map": "/API-NASA-React/public/static/js/runtime-main.dab41bf5.js.map",
+    "static/js/2.00972dcf.chunk.js": "/API-NASA-React/public/static/js/2.00972dcf.chunk.js",
+    "static/js/2.00972dcf.chunk.js.map": "/API-NASA-React/public/static/js/2.00972dcf.chunk.js.map",
+    "index.html": "/API-NASA-React/public/index.html",
+    "precache-manifest.b1e136d45995cdc52f16afaa770dbf4f.js": "/API-NASA-React/public/precache-manifest.b1e136d45995cdc52f16afaa770dbf4f.js",
+    "service-worker.js": "/API-NASA-React/public/service-worker.js",
+    "static/css/main.e44d26cd.chunk.css.map": "/API-NASA-React/public/static/css/main.e44d26cd.chunk.css.map",
+    "static/js/2.00972dcf.chunk.js.LICENSE.txt": "/API-NASA-React/public/static/js/2.00972dcf.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/API-NASA-React/public/static/media/pinpng.com-stars-png-tumblr-2298324.e80018ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab41bf5.js",
+    "static/js/2.00972dcf.chunk.js",
+    "static/css/main.e44d26cd.chunk.css",
+    "static/js/main.cc246346.chunk.js"
+  ]
+}
